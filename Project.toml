@@ -3,6 +3,10 @@ uuid = "30237ed5-f49f-4098-abe3-10c188bc49a9"
 authors = ["Constantine Evans <const@costinet.org> and contributors"]
 version = "0.1.0"
 
+[deps]
+Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
 [compat]
 julia = "1"
 
